@@ -1,0 +1,67 @@
+# 시스템 및 사용자 환경 관련 디렉토리 제외
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Templates/
+시작 메뉴/
+Contacts/
+Desktop/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+
+# 사용자 프로필 데이터 제외
+NTUSER.*
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+
+# IDE 및 개발 환경 관련 디렉토리 제외
+.eclipse/
+.android/
+.vscode/
+.cache/
+.gradle/
+.m2/
+AndroidStudioProjects/
+java-2022-03/
+eclipse-workspace/
+
+# 기타 개인 설정 파일 제외
+.bash_history
+.emulator_console_auth_token
+.gitconfig
+.lesshst
+.viminfo
+
+# 불필요한 파일 및 디렉토리 무시
+.3T/
+.Xilinx/
+.forever/
+.h2.server.properties
+.idlerc/
+.jdks/
+.p2/
+.swt/
+24.10.23.sql
+AppData/
+Documents/
+Oracle/
+
+# 데이터베이스 관련 파일 제외
+test.mv.db
+
+# 기타 추적하고 싶지 않은 파일들
+Foxit Reader SDK ActiveX.ini
+source/
