@@ -37,6 +37,7 @@ ntuser.ini
 AndroidStudioProjects/
 java-2022-03/
 eclipse-workspace/
+.SmartTomcat/
 
 # 기타 개인 설정 파일 제외
 .bash_history
